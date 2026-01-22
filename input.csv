@@ -1,0 +1,13 @@
+PONumber,Date,DeliveryDate,AccountCode,Description,Quantity,UnitAmount,TaxType,ContactID,TrackingCategory1,TrackingOption1,TrackingCategory2,TrackingOption2
+0000002905,01/09/2025,,810100,Please Add Detail,1,79.2,NONE,b33f5c1a-b34e-4470-8f46-f2daab92f264,School,Yearning for Learning MAT,,
+0000003028,01/09/2025,,810100,Please Add Detail,1,103.68,NONE,b33f5c1a-b34e-4470-8f46-f2daab92f264,,,,
+0000003185,05/09/2025,05/09/2025,,"Please Add, Some Detail!",1,108,NONE,b33f5c1a-b34e-4470-8f46-f2daab92f264,School,Blue stone Grammar School,Fund,Unrestricted
+0000003188,05/09/2025,05/09/2025,840200,Please Add Detail,1,391.56,NONE,b33f5c1a-b34e-4470-8f46-f2daab92f264,School,Yearning for Learning MAT,,
+0000003185,05/09/2025,05/09/2025,810200,Please Add Detail,1,881.02,NONE,b33f5c1a-b34e-4470-8f46-f2daab92f264,School,Blue stone Grammar School,Fund,Other Restricted
+0000003185,05/09/2025,05/09/2025,710100,"Please ""Add Detail""",1,1483.22,NONE,b33f5c1a-b34e-4470-8f46-f2daab92f264,School,Blue stone Grammar School,Fund,Other Restricted
+0000003199,09/09/2025,09/09/2025,710100,Please Add Detail,1,67.28,NONE,b33f5c1a-b34e-4470-8f46-f2daab92f264,School,Grandwell CoE School,,
+0000003201,09/09/2025,,,Please Add Detail,1,112.14,NONE,b33f5c1a-b34e-4470-8f46-f2daab92f264,School,Yarman Primary Academy,Fund,General Annual Grant
+0000003201,11/09/2025,,,Please Add Detail,1,79.08,NONE,b33f5c1a-b34e-4470-8f46-f2daab92f264,School,Yarman Primary Academy,Fund,Other Restricted
+0000003028,11/09/2025,,810200,Please Add Detail,1,780,NONE,b33f5c1a-b34e-4470-8f46-f2daab92f264,,,Fund,Other Restricted
+0000003208,11/09/2025,,810200,Please Add Detail,1,29.09,NONE,b33f5c1a-b34e-4470-8f46-f2daab92f264,School,Grandwell CoE School,Fund,General Annual Grant
+0000003216,12/09/2025,,,"Please, Add, Detail",1,44.36,NONE,b33f5c1a-b34e-4470-8f46-f2daab92f264,School,Blue stone Grammar School,,
